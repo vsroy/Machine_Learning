@@ -1,4 +1,4 @@
-#Python script to explore manipulations on a data set
+#Python script to implement a random forest classifier on a data set using scikit learn
 
 import pandas as pd
 import numpy as np
