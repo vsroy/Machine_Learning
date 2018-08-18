@@ -1,4 +1,5 @@
 #Data Set source : http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/slr06.html
+#Python program to implement Linear Regression Technique on a Swedish auto data set for predicting total payment for number of claims 
 
 import pandas as pd
 import math
