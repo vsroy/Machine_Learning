@@ -1,3 +1,5 @@
+#Implementing a Decision Tree classifier using sklearn to classifer to classify whether a person is male/female given their weight, height and weight
+
 from sklearn import tree
 
 sampleClassifer = tree.DecisionTreeClassifier()     #Creating object for decision tree clasifier
